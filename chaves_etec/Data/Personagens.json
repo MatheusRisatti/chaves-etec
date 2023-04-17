@@ -4,28 +4,28 @@
         "Nome": "Chaves",
         "Descricao": "Chaves (originalmente El Chavo del Ocho) é um personagem e o principal protagonista do programa que leva o mesmo nome. Ele é interpretado por Roberto Gómez Bolaños.",
         "Criacao": "A inspiração de Roberto para a criação do personagem veio quando ele observou que, em toda a América Latina, ele sempre se deparava com crianças que viviam com dificuldades: não tendo muitas vezes brinquedos ou até mesmo o que comer, mas que eram muito otimistas e encaravam a vida como um grande presente.",
-        "Imagem": "\\img\\chaves.png"
+        "Imagem": "\\img\\personagens\\chaves.png"
     },
     {
         "Numero": 2,
         "Nome": "Chiquinha",
         "Descricao": "Chiquinha (no original La Chilindrina), algumas poucas vezes chamada de Francisquinha,é uma dos personagens principais da série Chaves. Foi interpretada por Maria Antonieta de las Nieves, que utiliza a personagem em apresentações hoje em dia.",
         "Criacao": "Desenhei a Chiquinha como uma menina que teria tantas ou mais sardas que o Chaves, de modo a constituir um laço de identificação entre ambos; mas ela seria travessa até não poder mais e muito mais inteligente que ele -Roberto Gómez Bolaños sobre a criação da Chiquinha.",
-        "Imagem": "\\img\\chiquinha.png" 
+        "Imagem": "\\img\\personagens\\chiquinha.png" 
     },
     {
         "Numero": 3,
         "Nome": "Dona Clotilde",
         "Descricao": "Dona Clotilde, também conhecida como A Bruxa do 71 (no original: Doña Clotilde) é uma personagem de Chaves interpretada por Angelines Fernández. A personagem participou de todas as temporadas da série clássica, de Chespirito e da série animada.",
         "Criacao": "A criação de Dona Clotilde como personagem foi uma decisão dos roteiristas do programa, que buscavam expandir o universo da Vila e criar novas histórias para seus personagens. O papel de Dona Clotilde foi criado especialmente para a atriz Angelines Fernández, que já havia trabalhado com o criador do programa, Roberto Gómez Bolaños, em outras produções.",
-        "Imagem": "\\img\\dona-clotilde.png"
+        "Imagem": "\\img\\personagens\\dona-clotilde.png"
     },
     {
         "Numero": 4,
         "Nome": "Dona Florinda",
         "Descricao": "Florinda Corcuera y Villalpando, viúva de Matalascallando, mais conhecida como Dona Florinda (no original, Doña Florinda) é uma dos personagens principais da série Chaves interpretada por Florinda Meza. A personagem participou de todas as temporadas da série clássica, da série Chespirito e da série animada.",
         "Criacao": "A criação de Dona Florinda como personagem foi uma decisão dos roteiristas do programa para adicionar uma figura materna ao elenco e criar novas histórias para os personagens. De acordo com o próprio Roberto Gómez Bolaños, a personagem foi inspirada em sua própria mãe.",
-        "Imagem": "\\img\\dona-florinda.png"
+        "Imagem": "\\img\\personagens\\dona-florinda.png"
 
     },
     {
@@ -33,7 +33,7 @@
         "Nome": "Godinez",
         "Descricao": "Godinez é uma personagem interpretado pelo ator Horacio Gómez Bolaños, irmão do criador do programa, Roberto Gómez Bolaños. Ele é um aluno da escola frequentada por Chaves e seus amigos, e é conhecido por sua aparência desleixada e sua personalidade preguiçosa.",
         "Criacao": "A criação de Godinez como personagem foi uma decisão dos roteiristas do programa para adicionar um novo elemento à trama e criar um contraste com os personagens principais, que são crianças. Godinez foi inspirado em um amigo de infância dos irmãos Gómez Bolaños, que trabalhava em uma escola e tinha uma personalidade parecida com a do personagem.",
-        "Imagem": "\\img\\godinez.png"
+        "Imagem": "\\img\\personagens\\godinez.png"
 
     },
     {
@@ -41,21 +41,21 @@
         "Nome": "Jaiminho",
         "Descricao": "Jaime Garabito, mais conhecido como Jaiminho, o carteiro é um personagem da série Chaves, interpretado por Raul Padilla. Teve sua estréia no último ano da série clássica, após a saída de Ramón Valdez do elenco.",
         "Criacao": "A criação de Jaiminho como personagem foi uma decisão dos roteiristas do programa para adicionar um novo elemento à trama e criar novas histórias para os personagens. Jaiminho foi inspirado em um carteiro real que trabalhava na vizinhança do criador do programa, Roberto Gómez Bolaños.",
-        "Imagem": "\\img\\jaiminho.png"
+        "Imagem": "\\img\\personagens\\jaiminho.png"
     },
     {
         "Numero": 7,
         "Nome": "NhoNho",
         "Descricao": "Febronio Barriga Gordorritúa, mais conhecido como Nhonho (no original Ñoño), é um personagem recorrente da série Chaves, interpretado por Edgar Vivar durante os anos de 1974 até 1992, quando a série parou de ser gravada.",
         "Criacao": "A criação de Nho Nho como personagem foi uma decisão dos roteiristas do programa para adicionar um novo elemento à trama e criar novas histórias para os personagens. Ele foi introduzido na série como um menino mimado e malcriado, que muitas vezes entra em conflito com Chaves e seus amigos.",
-        "Imagem": "\\img\\nhonho.png"
+        "Imagem": "\\img\\personagens\\nhonho.png"
     },
     {
         "Numero": 8,
         "Nome": "Seu Madruga",
         "Descricao": "Seu Madruga ou também Seu Ramón (no original Don Ramón e que quando vai falar sobre a vovózinha Ron Dámon) é um dos personagens principais de Chaves interpretado por Ramón Valdés",
         "Criacao": "A criação de Seu Madruga como personagem foi uma decisão dos roteiristas do programa para retratar a vida dos menos favorecidos e abordar questões sociais importantes, como a pobreza e a desigualdade. Seu Madruga representa muitos dos problemas enfrentados pelas pessoas mais pobres na América Latina, incluindo a falta de oportunidades de emprego e a dificuldade em sustentar uma família.",
-        "Imagem": "\\img\\sr-madruga.png"
+        "Imagem": "\\img\\personagens\\sr-madruga.png"
 
     },
     {
@@ -63,7 +63,7 @@
         "Nome": "Sr. Barriga",
         "Descricao": "Sr. Barriga é um personagem interpretado pelo ator Édgar Vivar. Ele é o proprietário do imóvel onde Chaves e seus amigos moram, e frequentemente aparece na série para cobrar o aluguel atrasado dos inquilinos.",
         "Criacao": "A criação de Seu Barriga como personagem foi uma decisão dos roteiristas do programa para adicionar um elemento de conflito à trama e criar novas histórias para os personagens. Ele é retratado como um personagem sério e autoritário, que muitas vezes entra em conflito com os inquilinos por causa do aluguel atrasado.",
-        "Imagem": "\\img\\sr-barriga.png"
+        "Imagem": "\\img\\personagens\\sr-barriga.png"
 
     },
     {
@@ -71,20 +71,20 @@
         "Nome": "Professor Girafales",
         "Descricao": "Inocêncio Girafales (originalmente Inocencio Jirafales), mais conhecido como Professor Girafales, é um dos personagens principais de Chaves interpretado por Ruben Aguirre. Girafales participou de todas as temporadas da série original.",
         "Criacao": "Ao criar Chaves, Bolaños pensou que deveria haver uma escola para os meninos da vila e, portanto, precisava de um professor. Chespirito decidiu integrar o Profesor Girafales, mas antes fez algumas mudanças: o personagem original era muito ranzinza e bravo – às vezes até um pouco agressivo – e ele precisava de um professor de primário que se preocupasse com a educação de seus alunos, então se reuniu com Rubén Aguirre para pensar como poderiam suavizar um pouco o personagem. O que permaneceu intacto foi o terno, o colete, a gravata larga - que, a propósito, é chamada de plastrão -, o bigode aparado e o inesquecível charuto",
-        "Imagem": "\\img\\professor-girafales.png"
+        "Imagem": "\\img\\personagens\\professor-girafales.png"
     },
     {
         "Numero": 11,
         "Nome": "Quico",
         "Descricao": "Frederico Matalascallando Corcuera (série original) ou Frederico Bardón de la Regueira (série animada), mais conhecido como Quico, é um personagem da série Chaves. Foi interpretado por Carlos Villagrán durante os anos de 1972 a 1978, quando deixou o elenco.",
         "Criacao": "Roberto Gómez Bolaños teve a ideia para o personagem numa festa de adultos em que vieram umas crianças. Um menino em particular (já não suportava) - disse Bolaños - porque era mimado como ele só, e tirou muitas coisas daí. Dizia: Ouça, diz que sim, não seja mauzinho, e Bolaños pensou: Se alguém me diz isso na vida real, não saberia o que fazer.",
-        "Imagem": "\\img\\quico.png"
+        "Imagem": "\\img\\personagens\\quico.png"
     },
     {
         "Numero": 12,
         "Nome": "Paty",
         "Descricao": "Patricia Jiménez, mais conhecida como Paty, foi uma personagem de Chaves interpretada por quatro atrizes diferentes (três na série clássica e uma em Chespirito) e com uma versão animada em Chaves em Desenho Animado.",
         "Criacao": "A criação de Paty como personagem foi uma decisão dos roteiristas do programa para adicionar uma nova dimensão à trama e criar novas histórias para os personagens. Ela é retratada como uma menina bonita, inteligente e simpática, que muitas vezes ajuda Chiquinha e seus amigos a resolver problemas e superar desafios.",
-        "Imagem": "\\img\\paty.png"
+        "Imagem": "\\img\\personagens\\paty.png"
     }
 ]
